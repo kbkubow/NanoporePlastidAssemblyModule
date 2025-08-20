@@ -1,3 +1,5 @@
+These files are used for the trial run through of the Colab bioinformatics notebook. Giving all the students the same input files standardizes the run through and allows for easier troubleshooting. 
+
 AR2_3.2.fastq.gz is a fastq file that contains Nanopore reads from an individual from the population AR2, which belongs to the Western chloroplast clade. The reads were mapped to a reference plastid genome and only the mapped reads were kept.
 
 SK_6x9.fasta contains an assembled plastid genome from an individual from the population SK, or Spruce Knob, which belongs to the Appalachian chloroplast clade.
